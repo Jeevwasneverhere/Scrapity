@@ -1,0 +1,4 @@
+debug_*.html
+report_*.csv
+__pycache__/
+.env
